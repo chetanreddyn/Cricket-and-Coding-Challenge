@@ -1,4 +1,6 @@
 # Score-Prediction-after-Powerplay-in-IPL
+This is a part of the Cricket and Coding Challenge organised by IIT MADRAS BSc Degree Program - https://onlinedegree.iitm.ac.in/contest/
+
 By analysing the past data, the project aims to predict the powerplay score of each innings in a match given the venue, batting team, bowling team, batsman names, bowler names.
 
 
